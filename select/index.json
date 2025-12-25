@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "アタシは問題作",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-25T17:06:44.406822Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アタシは問題作",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_アタシは問題作_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アタシは問題作",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_アタシは問題作_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アタシは問題作",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_アタシは問題作_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アタシは問題作 - I’m a Controversy",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_アタシは問題作_-_I’m_a_Controversy_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アタシは問題作 (\"I'm a Controversy\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_アタシは問題作_(_I'm_a_Controversy_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アタシは問題作",
+      "artist": "Ado (18)",
+      "has_synced": true,
+      "path": "select/06_アタシは問題作_Ado_(18).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【Ado】アタシは問題作",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_【Ado】アタシは問題作_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アタシは問題作",
+      "artist": "Ado; Ado; Ado; Ado; Ado",
+      "has_synced": true,
+      "path": "select/08_アタシは問題作_Ado;_Ado;_Ado;_Ado;_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アタシは問題作 - I'm a Controversy",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_アタシは問題作_-_I'm_a_Controversy_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アタシは問題作 (Inst.)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_アタシは問題作_(Inst.)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アタシは問題作",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/11_アタシは問題作_Ado.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アタシは問題作 - I’m a Controversy",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/12_アタシは問題作_-_I’m_a_Controversy_Song.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アタシは問題作",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_アタシは問題作_Ado.txt"
+    }
+  ]
+}
